@@ -1,0 +1,20 @@
+#hero{
+background-image: url('../images/b-road.svg');
+background-repeat: no-repeat;
+background-position: right;
+background-size:contain ;
+}
+#bg-img{
+background-image: url('../images/about-us-background\ 1.svg');
+background-repeat: no-repeat;
+background-size: 600px;
+background-position: top;
+}
+#testimonials{
+    background-image: url('/src/bg-img-people.svg');
+    /* background-repeat: no-repeat; */
+    background-size: contain;
+    max-width: 1440px;
+    background-position: center;
+
+}
